@@ -52,5 +52,5 @@ Run the application
 python fifa.py
 
 Signup Screen	Player Dashboard	Manager View
-Signup	Player	Manager
+
 ![alt text](<Screenshot 2024-10-21 233800.png>) ![alt text](<Screenshot 2024-10-21 234210.png>) ![alt text](<Screenshot 2024-10-21 234716.png>)
