@@ -33,24 +33,19 @@ Security	bcrypt
 📦 Installation
 
 Clone the repository
-
 git clone https://github.com/PranavTurkar13/Fifa-Management-system.git
-cd fifa-management-system
+cd Fifa-Management-system
+
 Install dependencies
-
-
 pip install -r requirements.txt
+
 Set up MongoDB
-
 Install MongoDB Community Server
-
 Run MongoDB locally (mongod)
 
 Run the application
-
-
 python fifa.py
 
-Signup Screen	Player Dashboard	Manager View
+Signup Screen       	Player Dashboard        	Manager View
 
 ![alt text](<Screenshot 2024-10-21 233800.png>) ![alt text](<Screenshot 2024-10-21 234210.png>) ![alt text](<Screenshot 2024-10-21 234716.png>)
